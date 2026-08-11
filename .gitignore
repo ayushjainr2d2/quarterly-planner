@@ -2,3 +2,6 @@
 .claude/settings.local.json
 
 .DS_Store
+
+# Kept locally only, not published
+PRD - Quarterly Planning & Prioritization Tool.md
