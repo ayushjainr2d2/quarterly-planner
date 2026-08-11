@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "quarterly-planner",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "quarterly-planner", "run", "dev"],
+      "port": 5173,
+      "autoPort": true
+    }
+  ]
+}
